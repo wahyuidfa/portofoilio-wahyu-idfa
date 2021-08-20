@@ -126,7 +126,7 @@
    }
    
    #home img {
-       width: 100%;
+       width: 50%;
    }
    
    .kolom .home-title {
@@ -165,12 +165,12 @@
    }
    
    #about img {
-       width: 50%;
+       width: 40%;
        margin-top: 70px;
    }
    
    #education img {
-       width: 100%;
+       width: 50%;
    }
    
    .kolom .education-title {
